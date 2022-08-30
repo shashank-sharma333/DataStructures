@@ -7,4 +7,6 @@ public interface NumberConstants {
 	int MINUS_ONE=-1;
 	
 	int ONE=1;
+	
+	int HUNDRED=100;
 }
